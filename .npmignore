@@ -1,0 +1,11 @@
+node_modules
+dist
+.vscode
+.idea
+.DS_Store
+dist/
+npm-debug.log
+src/
+!src/locale/lang
+build/
+package.json

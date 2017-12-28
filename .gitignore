@@ -1,0 +1,8 @@
+node_modules/
+lib
+.vscode
+.idea
+.DS_Store
+lib/
+npm-debug.log
+test/coverage
